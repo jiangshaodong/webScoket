@@ -5,5 +5,8 @@ public class GitTest {
 	 System.out.println(6666);
 	 System.out.println(777);
 	 System.out.println(888);
+   } 
+	 public void method(){
+		 System.out.println(123456789);
 }
 }
